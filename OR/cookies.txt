@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	4cf57b5e-eb07-49cd-a349-8f1faa93b0ec"
+www.pinterest.com.au	TRUE	/	FALSE	1999999999	csrftoken	14a802658fb27aafcc1ed6429a955334
+www.pinterest.com.au	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSZrRHpZa0FtUEVreHZNbStiRDBDQzVVb0Q0TjlvQnZubVFBbmNTbjBQWEs4NU5zdlk5V05GMm80cGJTTHZOdWZkaDgwc1huTXg4NWJGbVJPM01kckl3RERWT2s5NDh1Rkp6Wi8wYlBSeGh2QlQvUWkydzJ5L2FtMXlCZ3E2RGpNQWQxbnpBbVBoM2NzQ0hHcmZPNUhZUkE9PSZVc0crSXpTWVBZWDBhZDJ5KzEyRjFuRFRXQmM9
+www.pinterest.com.au	TRUE	/	FALSE	1999999999	samesite	none
+www.pinterest.com.au	TRUE	/	FALSE	1999999999	_auth	0
+www.pinterest.com.au	TRUE	/	FALSE	1999999999	_routing_id	5a03ed1f-381e-4b2d-b291-3e0b065f8665"
+.tumblr.com	TRUE	/	FALSE	1999999999	tmgioct	60591ad8ef96130382958830
+

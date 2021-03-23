@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+09:15:49	0/0	---M--	302	error ('Found')	text/html	date:Mon,%2022%20Mar%202021%2022:15:48%20GMT	http://oliverrice.net/robots.txt		(from )
+09:15:50	0/0	---MC-	302	error ('Found')	text/html	date:Mon,%2022%20Mar%202021%2022:15:48%20GMT	http://oliverrice.net/	C:/Users/Alexei%20Machkevitch/Desktop/clones/OR/oliverrice.net/index.html	(from )
